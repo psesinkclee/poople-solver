@@ -1,0 +1,14 @@
+# generated word bank cache
+poopbank.txt
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# os
+.DS_Store
+Thumbs.db
